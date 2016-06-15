@@ -5,3 +5,5 @@ The lack of humidity might be a problem.
 Mars is my second favorite planet, after Earth.
 This is yet another change.
 Here is another line that should conflict
+This line was added by Mike.
+This line was added by Jess. 
