@@ -4,3 +4,4 @@ Mark Watney was there.
 The lack of humidity might be a problem.
 Mars is my second favorite planet, after Earth.
 This is yet another change.
+This line was added by Mike.
